@@ -1,4 +1,4 @@
-#class for movies.
+# class for movies.
 class Movies():
     def __init__(self, title, images, url, lead_actors):
         """ Class with different attributes of a Movie """
