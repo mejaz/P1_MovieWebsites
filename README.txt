@@ -25,7 +25,7 @@ Steps to run the file:
 	 ii. media.py
 	iii. entertainment_center.py
 
-2. Through command line, run the command : python entertainment.py
+2. Through command line, run the command : python entertainment_center.py
 
 
 Contact Us:
